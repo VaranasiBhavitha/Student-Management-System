@@ -21,5 +21,3 @@ This is a simple Java-based Student Management System that allows users to manag
 
 2. Run the program:
    java StudentManagement
-
-## 📸 Output Example
