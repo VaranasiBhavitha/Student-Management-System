@@ -1,4 +1,3 @@
-
 import java.util.*;
 import java.io.*;
 
@@ -11,7 +10,6 @@ class Student {
         this.name = name;
     }
 }
-
 public class StudentManagement {
     static ArrayList<Student> students = new ArrayList<>();
     static Scanner sc = new Scanner(System.in);
@@ -47,7 +45,6 @@ public class StudentManagement {
             }
         }
     }
-
     static void addStudent() {
         System.out.print("Enter ID: ");
         int id = sc.nextInt();
