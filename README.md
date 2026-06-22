@@ -7,11 +7,11 @@ This is a simple Java-based Student Management System that allows users to manag
 - ➕ Add Student
 - 📋 View Students
 - 🔍 Search Student by ID
-- ❌ Delete Student
+- ❌ Delete student
 
 ## 🛠️ Technologies Used
 - Java
-- OOP (Object-Oriented Programming)
+- OOP
 - ArrayList
 
 ## ▶️ How to Run
